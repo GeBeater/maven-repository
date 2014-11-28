@@ -22,7 +22,7 @@ This repository can be used in any maven project by adding the repository to the
 <repositories>
   <repository>
     <id>git-GeBeater</id>
-    <name>GeBeater's Git based repo</name>
+    <name>GeBeater\'s Git based repo</name>
     <url>https://github.com/GeBeater/maven-repository/raw/master/</url>
   </repository>
 </repositories>
