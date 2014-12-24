@@ -14,7 +14,8 @@ mvn install:install-file \
  -DartifactId=[artifact-id] \
  -Dversion=[version] \
  -Dpackaging=[packaging-format] \
- -Dfile=[path-to-file]
+ -Dfile=[path-to-file] \
+ -DpomFile=pom.xml
 ```
 
 ```bash
@@ -25,7 +26,8 @@ mvn install:install-file \
  -Dversion=[version] \
  -Dpackaging=[packaging-format] \
  -Dclassifier=sources \
- -Dfile=[path-to-file]
+ -Dfile=[path-to-file] \
+ -DpomFile=pom.xml
 ```
 
 
