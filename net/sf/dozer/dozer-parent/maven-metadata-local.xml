@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.sf.dozer</groupId>
+  <artifactId>dozer-parent</artifactId>
+  <versioning>
+    <release>5.5.1-patched</release>
+    <versions>
+      <version>5.5.1-patched</version>
+    </versions>
+    <lastUpdated>20151030172926</lastUpdated>
+  </versioning>
+</metadata>
